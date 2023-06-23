@@ -10,12 +10,16 @@
   },
   "dependencies": {
     "expo": "~48.0.18",
+    "expo-linear-gradient": "~12.1.2",
+    "expo-modules-core": "~1.2.7",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.8"
+    "react-native": "0.71.8",
+    "react-native-auth0": "^2.17.4"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "metro": "^0.76.5"
   },
   "private": true
 }
